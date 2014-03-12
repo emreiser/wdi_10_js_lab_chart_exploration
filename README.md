@@ -1,6 +1,6 @@
 # D3 Chart Explorations
 
-Complete this exercise in groups of 2.
+Complete this exercise in groups of 3.
 
 Find three D3 visualizations on the [D3 Example Gallery](https://github.com/mbostock/d3/wiki/Gallery). For each of the examples, copy the code required to run it into a new folder in this repo.
 
